@@ -1,0 +1,11 @@
+{
+  "name": "studentmanagement",
+  "version": "1.0.0",
+  "description": "demo app using http modules for apl dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
